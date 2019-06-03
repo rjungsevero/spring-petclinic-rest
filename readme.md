@@ -109,7 +109,7 @@ POST /api/users
 }
 ```
 
-## Working with Petclinic in Eclipse/STS
+## Workingg with Petclinic in Eclipse/STS
 
 ### prerequisites
 The following items should be installed in your system:
